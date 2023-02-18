@@ -1,5 +1,5 @@
 # Phase-2-Project
-**Authors:** Vincient Amadio, Parker DeShazo, Beyza Ulasti
+**Authors:** Vincent Amadio, Parker DeShazo, Beyza Ulasti
 ## Overview
 We identified a business problem, cleaned the data, set parameters, dropped outliers, and used OLS models to infer house prices in King County, Washington.
 
