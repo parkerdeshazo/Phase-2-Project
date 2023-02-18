@@ -46,7 +46,7 @@ Here's what went into our models:
 
 ## Next Steps  
 
-House Appreciation
-Renovation costs
-Rental Properties
+1.House Appreciation
+2.Renovation costs
+3.Rental Properties
 
